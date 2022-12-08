@@ -1225,7 +1225,6 @@ function commitUpgrade(i,genType){
 
 
 
-gameInfo.money=100000
 
 
 
